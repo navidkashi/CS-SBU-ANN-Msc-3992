@@ -1,6 +1,11 @@
 # Site settings
 course_name: Artificial Neural Networks
-course_description: "Course Description...."
+course_description: "
+The goal of “neural networks” is to realize artificial intelligent systems using the human brain as the model. In this course we introduce the basics of neuron and network models, learning algorithms, architectures, and some applications of neural networks.  After this course, students will be able to know how to use neural networks for solving different problems related to pattern recognition, function approximation, data visualization, and so on. Basically, students will learn how to answer the following questions for a given problem: 
+What kind of structure or model should they use? 
+how to train or design the neural networks? 
+How to use neural networks for knowledge acquisition?
+"
 course_semester: "Spring 2021"
 
 baseurl: "/CS-SBU-ANN-Msc-3992" # the subpath of your site, e.g. /blog/
