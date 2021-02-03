@@ -1,9 +1,8 @@
 ---
 layout: home
-title: -
 ---
 
-## Topics
+<h2> Topics </h2>
 * Basic neuron models including McCulloch-Pitts neuron and Perceptron.
 * Multi-layer Perceptrons (MLP)
 * Gradient Descent Algorithm 
