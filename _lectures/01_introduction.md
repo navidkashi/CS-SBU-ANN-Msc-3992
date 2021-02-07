@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 20201-02-7T8:00:00+4:30
+date: 2021-02-7T8:00:00+4:30
 title: Introduction to Neural Networks
 thumbnail: /static_files/presentations/lec1.png
 links: 
