@@ -10,3 +10,4 @@ due_event:
     date: 2021-03-06T23:59:59+4:30
     description: 'Assignment #1 due'
 ---
+Neural Network From Scratch!
