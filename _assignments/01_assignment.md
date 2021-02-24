@@ -1,3 +1,4 @@
+<!--
 ---
 type: assignment
 date: 2021-02-24T23:59:59+4:30
@@ -11,3 +12,4 @@ due_event:
     description: 'Assignment #1 due'
 ---
 Neural Network From Scratch!
+-->
