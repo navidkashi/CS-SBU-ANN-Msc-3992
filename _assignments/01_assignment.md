@@ -14,5 +14,6 @@ due_event:
 # Notes
 - Students who audit this course should submit their assignments to be qualified for attending the rest of the sessions.
 - Finding any sort of copying will zero down that assignment grade and also will be counted as two negative assignment points for your final score.
+
 # Submission
-You must submit a report file explaining all of your experiments, and also submit your trained model weights and source code by fill out this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc1nldTzmrj8lGpAiHybTAv0ynqJ7e5d03PLuU0lCIQYzHweA/viewform?usp=sf_link).
+You should submit a report file explaining all of your experiments, and also submit your trained model weights and source code by fill out this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc1nldTzmrj8lGpAiHybTAv0ynqJ7e5d03PLuU0lCIQYzHweA/viewform?usp=sf_link).
