@@ -7,7 +7,7 @@
     {% if include.event.pdf %}
     {{ include.event.title }} released!
     {% endif %}
-    {% if not include.event.pdf %}
+    {% if include.event.pdf == False %}
     {{ include.event.title }} release!
     {% endif %}
 </div>
